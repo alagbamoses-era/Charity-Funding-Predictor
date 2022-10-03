@@ -1,4 +1,4 @@
-# Deep Learning Homework: Charity Funding Predictor
+Charity Funding Predictor Project
 
 ## Background
 
