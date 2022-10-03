@@ -93,6 +93,3 @@ The report should contain the following:
     * What steps did you take to try and increase model performance?
 
 3. **Summary**: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
-
-- - -
-
